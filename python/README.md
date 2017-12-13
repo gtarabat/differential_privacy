@@ -1,2 +1,3 @@
-# binder_test
-Play with python notebooks and binder 2.0
+# Differential Privacy
+
+Optimize the masking mechanisms of a Differential Privacy framework using multiobjective optimization.

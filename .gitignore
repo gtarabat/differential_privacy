@@ -1,2 +1,8 @@
 *.eps
 *.mp4
+
+
+.ipynb_checkpoints/
+python/.ipynb_checkpoints/*.ipynb
+
+python/__pycache__/

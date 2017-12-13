@@ -1,5 +1,3 @@
 numpy==1.13.3
-logging
-sys
 matplotlib==2.1.1
 https://github.com/Project-Platypus/Platypus/archive/master.zip

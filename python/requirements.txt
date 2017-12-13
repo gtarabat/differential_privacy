@@ -1,0 +1,2 @@
+matplotlib==2.1.0
+https://github.com/Project-Platypus/Platypus/archive/master.zip

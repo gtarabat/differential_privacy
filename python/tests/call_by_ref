@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Dec 12 09:52:36 2017
+
+@author: G. Arampatzis (gtarabat@gmail.com)
+"""
+
+class test:
+    def __init__(self):
+        self.x = 1;
+    
+    def printme(self):
+        print('.x=',self.x)
+
+
+
+
+
+
+
+
+def func(s):
+    s.x=0;
+    
+    
+    
+    
+a = test();
+a.printme()
+func(a)
+a.printme()
+
+    
